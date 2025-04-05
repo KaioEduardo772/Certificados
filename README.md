@@ -1,3 +1,5 @@
 # Certificados
 
-Aqui estão os certificados de cursos realizados.
+Aqui neste repositório estão os certificados de cursos realizados.
+
+Por Kaio.
